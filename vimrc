@@ -2,7 +2,6 @@
 
 let g:TH3X_theme_active = 1
 let g:minimal = 0
-let g:hacker = 0
 
 set encoding=utf-8
 set pastetoggle=<F2>
