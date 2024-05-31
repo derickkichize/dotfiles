@@ -164,9 +164,3 @@ if g:minimal == 1
 	set background=dark
 	hi Normal ctermbg=NONE
 endif
-
-if g:hacker == 1
-	colorscheme green
-	set background=dark
-	hi Normal ctermbg=NONE
-endif
